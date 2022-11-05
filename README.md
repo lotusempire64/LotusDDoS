@@ -2,7 +2,8 @@
 # Cresent Moon DDoS
 
 An Advanced DDoS Tool For Windows/Linux/Mac 
-https://img.shields.io/badge/Made%20By-Lotus%20Empire-brightgreen
+[![Credits](https://img.shields.io/badge/Made%20By-Lotus%20Empire-brightgreen)](https://discord.gg/EABQyftBgW) 
+
 ## ✨Features
 
 - User Agent Spoofing
