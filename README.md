@@ -30,7 +30,9 @@ You May Have To Take The Files Out Of The Lotus DDoS Folder And Place Them On Yo
 
 ## 💰Donations 
 BTC: 35nkHfskXEZiadbhG48DsjLKGTb6bbGCuz 
+
 ETH: 0xbDb16482FBBFa71dE0179084BBAaD344af965afE 
+
 ATOM: cosmos1c0kavk8hhf6ed848zt23gxwcvaeuaul70dndt6 
 
 ## Disclaimor 
